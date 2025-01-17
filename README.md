@@ -8,3 +8,5 @@ Metasploit is an open source penetration testing framework that provides many to
 How i've been using metasploit: Within my homelab i've been running metasploit against my target machine, playing around with the tool just trying to understand how things such as the auxillary scanner, meterpreter, payloads, and other features work. I got comfortable doing things like setting the RHOSTS, RPORT, LHOSTS, LPORT, and things of that nature. However, I still have a lot to learn and a lot to explore but with time i'll become more familiarized and knowledgeable with this tool.
 
 My thoughts: Metasploit is such a great tool, I feel like you can use this tool for any occasion and its very versatile. It comes with so much options and there's tons of exploits and vulnerablities.
+
+Checkout my hands on experience with metasploit when it becomes available.
